@@ -1,0 +1,16 @@
+{
+  "name": "ricky-on-dvd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "static/scripts.js",
+  "scripts": {
+    "serve": "npx http-server ./static/"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "http-server": "0.12.1"
+  }
+}
